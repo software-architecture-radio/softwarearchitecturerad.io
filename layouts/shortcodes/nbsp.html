@@ -1,0 +1,2 @@
+{{ $times := default 1 (.Get 0) }}
+{{ safeHTML (strings.Repeat $times "&#160;") }}
