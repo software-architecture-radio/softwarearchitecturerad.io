@@ -32,6 +32,9 @@ params:
   description: "The zen theme for Hugo example site."
   dateformat: "2 January, 2006"
   favicon: "apple-touch-icon.png"
+  realfavicongenerator: true
+  themeColor: "#87b8f2"
+  safariPinnedColor: "#87b8f2"
   feedlinks: true
   footer: "Copyright &copy;2020 Matt Stine. Logo is Software Architecture by Richard Slater from the Noun Project. Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
   icon: "apple-touch-icon.png"
